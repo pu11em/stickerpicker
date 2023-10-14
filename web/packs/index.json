@@ -1,6 +1,7 @@
 {
   "packs": [
-    "Meme_stickers.json"
+    "Meme_stickers.json",
+    "pcriot-memes.json"
   ],
   "homeserver_url": "https://pcriot.org"
 }
