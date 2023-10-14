@@ -1,7 +1,8 @@
 {
   "packs": [
     "Meme_stickers.json",
-    "pcriot-memes.json"
+    "pcriot-memes.json",
+    "the_office_us_by_StickersCloudBot.json"
   ],
   "homeserver_url": "https://pcriot.org"
 }
